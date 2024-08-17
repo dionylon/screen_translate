@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+config.ini
+*.log
+*.db
+*.sqlite
+*.sqlite3
+*.json

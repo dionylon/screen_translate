@@ -1,0 +1,8 @@
+paddlepaddle-gpu
+paddle_ocr
+opencv-python
+numpy
+Pillow
+tqdm
+requests
+mss
